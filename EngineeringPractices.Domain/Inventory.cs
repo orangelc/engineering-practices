@@ -18,6 +18,9 @@ namespace EngineeringPractices.Domain
             {
                 throw new Exception("El producto no tiene nombre.");
             }
+            if(product.Price >= 100){
+                throw new Exception("El producto exceded el precio unitario máximo");
+            }
             return true;
         }
     }

@@ -7,6 +7,7 @@ namespace EngineeringPractices.Test
     [TestClass]
     public class UnitTest1
     {
+
         [TestMethod]
         [ExpectedException(typeof(Exception))]
         public void Cuando_AgregoProductoNulo_Entonces_LanzarException()
@@ -21,6 +22,14 @@ namespace EngineeringPractices.Test
         {
             Inventory inventory = new Inventory();
             inventory.Create(new Product { Id=1, Name=string.Empty, Price=10.0 });
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void Cuando_AgregoProductoConUnPrecioMayorACien_Entonces_LanzarException()
+        {
+            Inventory inventory = new Inventory();
+            inventory.Create(new Product { Id = 1, Name = "P001", Price = 101.0 });
         }
 
     }
