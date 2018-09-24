@@ -9,10 +9,19 @@ namespace EngineeringPractices.Test
     {
         [TestMethod]
         [ExpectedException(typeof(Exception))]
-        public void TestMethod1()
+        public void Cuando_AgregoProductoNulo_Entonces_LanzarException()
         {
             Inventory inventory = new Inventory();
             inventory.Create(null);
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void Cuando_AgregoProductoSinNombre_Entonces_LanzarException()
+        {
+            Inventory inventory = new Inventory();
+            inventory.Create(new Product { Id=1, Name=string.Empty, Price=10.0 });
+        }
+
     }
 }
