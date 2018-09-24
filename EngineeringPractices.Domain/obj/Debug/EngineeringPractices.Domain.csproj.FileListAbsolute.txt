@@ -1,0 +1,5 @@
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Domain\bin\Debug\EngineeringPractices.Domain.dll
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Domain\bin\Debug\EngineeringPractices.Domain.pdb
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Domain\obj\Debug\EngineeringPractices.Domain.csprojResolveAssemblyReference.cache
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Domain\obj\Debug\EngineeringPractices.Domain.dll
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Domain\obj\Debug\EngineeringPractices.Domain.pdb

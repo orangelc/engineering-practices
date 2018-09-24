@@ -1,0 +1,6 @@
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Console\bin\Debug\EngineeringPractices.Console.exe.config
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Console\bin\Debug\EngineeringPractices.Console.exe
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Console\bin\Debug\EngineeringPractices.Console.pdb
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Console\obj\Debug\EngineeringPractices.Console.csprojResolveAssemblyReference.cache
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Console\obj\Debug\EngineeringPractices.Console.exe
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Console\obj\Debug\EngineeringPractices.Console.pdb
