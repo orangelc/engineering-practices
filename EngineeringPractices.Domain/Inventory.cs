@@ -10,6 +10,10 @@ namespace EngineeringPractices.Domain
     {
         public bool Create(Product product)
         {
+            if (product == null)
+            {
+                throw new Exception("No hay un producto.");
+            }
             return true;
         }
     }
