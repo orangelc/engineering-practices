@@ -5,3 +5,12 @@ D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\Engine
 D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\obj\Debug\EngineeringPractices.Test.csprojResolveAssemblyReference.cache
 D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\obj\Debug\EngineeringPractices.Test.dll
 D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\obj\Debug\EngineeringPractices.Test.pdb
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\Castle.Core.dll
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\Moq.dll
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\System.ValueTuple.dll
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\Castle.Core.xml
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\Moq.pdb
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\Moq.xml
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IntegraIT\GIT\EngineeringPractices\EngineeringPractices.Test\bin\Debug\System.ValueTuple.xml
