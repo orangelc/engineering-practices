@@ -20,10 +20,11 @@ namespace EngineeringPractices.Test
         [TestCleanup]
         public void Dispose()
         {
-
+            inventory = null;
         }
 
         [TestMethod]
+        [TestCategory("Integracion")]
         [ExpectedException(typeof(Exception))]
         public void Cuando_AgregoProductoNulo_Entonces_LanzarException()
         {
